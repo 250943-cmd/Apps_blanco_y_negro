@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#4A235A</color>
+    <color name="white">#BC94CC</color>
+    <!-- Mi paleta: d = 8 -->
+    <color name="primarioYSV">#2C3E50</color>
+    <color name="acentoYSV">#F08A7A</color>
+    <color name="fondoYSV">#F4F6F7</color>
+    <color name="textoYSV">#15202B</color>
+    <color name="textoBotonYSV">#FFFFFF</color>
+
+</resources>

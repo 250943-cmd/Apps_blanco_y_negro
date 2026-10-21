@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Asistencia CEAA</string>
+
+    <!-- Textos de la interfaz -->
+    <string name="msg_inicialYSV">Escribe tus datos para registrarte</string>
+    <string name="hint_nombreYSV">Ingresa tu nombre</string>
+    <string name="hint_matriculaYSV">Ingresa tu matricula</string>
+    <string name="btn_registrarYSV">Registrar</string>
+    <string name="btn_registrar_otroYSV">Registrar otro</string>
+    <string name="btn_limpiarYSV">Limpiar</string>
+    <string name="btn_tema_oscuroYSV">Modo oscuro</string>
+    <string name="btn_tema_claroYSV">Modo claro</string>
+    <string name="msg_registradoYSV">Registrado: %1$s (%2$s)\nAsistente numero %3$d</string>
+
+    <!-- Mensajes de validacion -->
+    <string name="val_nombre_vacioYSV">Escribe tu nombre</string>
+    <string name="val_nombre_cortoYSV">El nombre es demasiado corto</string>
+    <string name="val_matricula_vaciaYSV">Escribe tu matricula</string>
+    <string name="val_matricula_largoYSV">La matricula debe tener 7 digitos</string>
+</resources>
